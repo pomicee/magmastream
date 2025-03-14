@@ -5,7 +5,7 @@
 </p>
 
 [![NPM Version](https://img.shields.io/npm/v/magmastream?color=00DDB3&label=Magmastream&style=for-the-badge&logo=npm)](https://www.npmjs.com/package/magmastream)
-[![Discord](https://img.shields.io/discord/YOUR_SERVER_ID?color=5865F2&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/HV59Z3zEjt)
+[![Discord](https://img.shields.io/discord/861304800749289502?color=5865F2&logo=discord&logoColor=white&style=for-the-badge)]([https://discord.gg/HV59Z3zEjt](https://discord.gg/wrydAnP3M6))
 [![GitHub Stars](https://img.shields.io/github/stars/Magmastream-NPM/magmastream?color=yellow&style=for-the-badge&logo=github)](https://github.com/Magmastream-NPM/magmastream/stargazers)
 [![Downloads](https://img.shields.io/npm/dt/magmastream.svg?style=for-the-badge&color=FF6B6B)](https://www.npmjs.com/package/magmastream)
 
@@ -85,8 +85,6 @@
 ![Stats](https://repobeats.axiom.co/api/embed/e46896cea6c7ad6648effe4d7868ffa3fef0151b.svg "Repobeats analytics image")
 
 <br />
-
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Magmastream-NPM&theme=github&hide_border=true&bg_color=0D1117&line=00DDB3&point=FFFFFF)](https://github.com/Magmastream-NPM/magmastream)
 
 </div>
 
