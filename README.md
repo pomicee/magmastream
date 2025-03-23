@@ -5,7 +5,6 @@
 </p>
 
 [![NPM Version](https://img.shields.io/npm/v/magmastream?color=00DDB3&label=Magmastream&style=for-the-badge&logo=npm)](https://www.npmjs.com/package/magmastream)
-[![Discord](https://img.shields.io/discord/861304800749289502?color=5865F2&logo=discord&logoColor=white&style=for-the-badge)]
 [![GitHub Stars](https://img.shields.io/github/stars/Magmastream-NPM/magmastream?color=yellow&style=for-the-badge&logo=github)](https://github.com/Magmastream-NPM/magmastream/stargazers)
 [![Downloads](https://img.shields.io/npm/dt/magmastream.svg?style=for-the-badge&color=FF6B6B)](https://www.npmjs.com/package/magmastream)
 
